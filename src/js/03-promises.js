@@ -49,3 +49,4 @@ function createPromise(position, delay) {
 //   .catch(({ position, delay }) => {
 //     console.log(`❌ Rejected promise ${position} in ${delay}ms`);
 //   });
+console.log('Перевірка роботи сайту');
